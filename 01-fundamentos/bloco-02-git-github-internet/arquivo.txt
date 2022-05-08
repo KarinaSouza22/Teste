@@ -2,4 +2,8 @@ Unix
 Bash
 Git
 GitHub
+Internet
+HTML
+CSS
+
 
